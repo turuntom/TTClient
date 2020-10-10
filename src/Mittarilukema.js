@@ -6,8 +6,8 @@ import styled from 'styled-components'
 const Section = styled.section`
     color: white;
     position: absolute;
-    top: 80px;
-    left: 50px;
+    top: 120px;
+    left:70px;
     background: ${props => props.background};
     font-size: 20px;
     padding-left: 2%;
